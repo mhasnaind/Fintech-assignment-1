@@ -88,17 +88,20 @@ https://medium.com/celoorg/big-day-for-the-celo-ecosystem-20-million-in-new-back
 Celo’s mission is focused on promoting prosperity by meeting basic needs, enabling growth potential, and / or increasing social support. The team working on Celo has adopted metrics within each objective that they will track as Celo evolves. The objectives and metrics are:
 
 Objective #1: Increase the number of people whose basic needs are met
-	• # Celo users lifted above the poverty line
+
+	• # of Celo users lifted above the poverty line
 	• $ amount of humanitarian aid sent via Celo
 	• # of cash transfer programs and humanitarian aid programs using Celo
 	• Active ecosystems (i.e. cash-in and cash-out options) in market
 
 Objective #2: Individuals are able to grow along their own path
+
 	• # People provided new access to decentralized finance tools (e.g. measured via surveys)
 	• # Active user base in across all countries
 	• # of people working on / building on Celo
 
 Objective #3: People are supporting each other
+
 	• % reduction in avg. transaction costs for P2P payment
 	• # P2P transactions in EM countries
 	• Celo community growth
