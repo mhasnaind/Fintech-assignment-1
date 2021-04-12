@@ -1,11 +1,11 @@
 # Fintech-assignment-1
 ## Overview and Origin
 
-* Name of company
+* **Name of company**
 
 Celo,  an open-source mobile based decentralized stablecoin project / platform that aims to provide access to financial services for everyone.
 
-* When was the company incorporated?
+* **When was the company incorporated?**
 
 Celo was founded in 2017.
 
